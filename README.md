@@ -15,5 +15,8 @@ NLP concepts and algorithms
     - Word-embeddings 
 - Stop words 
 - Word vectors
+      - WORD2Vec (text classfication)
+      - Genshim (text classfication)
+      -  fastText (text classfication)
 - fastText
 - chatbots
